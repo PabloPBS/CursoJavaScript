@@ -1,0 +1,5 @@
+Comentários - // - /* - */
+// - única liha
+/*
+comentário em mais de uma linha
+*/
