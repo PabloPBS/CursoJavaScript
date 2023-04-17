@@ -1,0 +1,12 @@
+aritméticos + - * / ** %
+atribuição
+relacionais
+lógicos
+ternário
+
+
+5 == '5' = true -- mesmo valor
+5 === '5' = false -- mesmo valor e mesmo tipo
+! - negação
+&& - conjunção (e)
+|| disjunção (ou)
