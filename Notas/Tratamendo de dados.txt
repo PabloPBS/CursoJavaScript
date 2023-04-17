@@ -1,0 +1,27 @@
+Var nome = window.prompt('Qual seu nome?')
+window.alert(`Bem vindo, ${nome}!`) / 'prazer..' + nome
+
+Windows.prompt sempre retorna string
+
++ ADIÇÃO E CONCATENAÇÃO/ SOMAR 2 NÚMEROS?
+Number.parseInt(n)
+Number.parseFloat(n)
+soma = Number(n1) + Number(n2)
+
+STRING TO NUMBER
+String(n)
+n.toString()
+
+FORMATANDO STRINGS
+var s = 'JavaScript'
+'Estou aprendendo s'
+crase - `Eu estou aprendedo ${s}`
+
+s.length()
+s.toUpperCase()
+s.toLowerCase()
+
+FORMATANDO NUMEROS
+n.toFixed(2) - Formatar casas decimais
+n.toFixed(2).replace('.',',') - Trocar os . por ,
+ n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})

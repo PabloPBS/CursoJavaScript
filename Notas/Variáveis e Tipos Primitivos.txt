@@ -3,3 +3,7 @@ Comentários - // - /* - */
 /*
 comentário em mais de uma linha
 */
+
+Declarada por var/let
+var n1 = 5
+let n1 = 5
