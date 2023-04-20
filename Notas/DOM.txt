@@ -1,0 +1,12 @@
+Document Object Model
+Conjunto de objetos dentro do navegador
+
+Árvore DOM
+		window
+		   |
+location	document	history
+		   |
+		html
+
+	head		body
+meta, title		h1,p,p > storng ,div
