@@ -1,0 +1,8 @@
+Evento - Tudo aquilo que possa acontecer com tal elemento
+
+mouseenter = hover
+mousemove = Enquanto move
+mousedown = Enquanto segura
+mouseup = Ao soltar
+click = click
+mouseout = Tirar o mouse
