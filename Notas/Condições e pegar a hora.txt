@@ -1,0 +1,11 @@
+else if {}
+var agora = new Date()
+var hora = agora.getHours()
+
+SEMPRE BOTAR O BREAK
+APENAS FUNCIONA COM INTEIROS E STRINGS
+switch (expressão) {
+	case valor1: break
+	case valor2: break
+	default: (else) break
+}
